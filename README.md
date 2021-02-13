@@ -1,1 +1,1 @@
-this is goldenlock's first git project!
+this is my first git project!
